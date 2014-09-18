@@ -1,0 +1,3 @@
+#!/bin/bash
+./install_git
+./install_node_npm
