@@ -4,4 +4,6 @@ sudo apt-get -y remove --purge unity-webapps-common
 sudo apt-get -y autoremove indicator-messages
 sudo apt-get -y autoremove telepathy-indicator
 sudo apt-get -y autoremove deja-dup
+sudo apt-get -y remove --purge ubuntuone*
+sudo apt-get -y autoremove
 

@@ -2,4 +2,5 @@
 ./install_chrome
 ./install_node_npm
 ./install_mysql
-
+./install_vim
+./uninstall
